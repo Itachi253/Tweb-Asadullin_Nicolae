@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78e534cd-2511-456c-82a1-b98344cc3c69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab-3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-5/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-5/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-5/src/Todo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-5/src/TodoAdd.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-5/src/TodoContent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-5/src/TodoStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-5/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-7/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
